@@ -1,6 +1,10 @@
-# 786
-
-A community for muslims. Join us on [Discord](https://786.world/).
+<p align="center">
+	<a href="https://786.world/">
+		<img src="786.png" />
+		<h1 align="center">786</h1>
+	</a>
+</p>
+<p align="center">A community for muslims.<br>Join us on <a href="https://786.world/">Discord</a>.</p>
 
 ## Overview
 
