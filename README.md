@@ -14,3 +14,7 @@ meet other like minded people and discuss their faith or exist in a place with t
 ## Rationale
 
 I grew up in Edinburgh, Scotland. The only muslim people I knew were my family and close relatives. When I left that all behind and moved to London, England, I felt a disconnect between who I was and the people around me. I didn't feel free to express my faith or beliefs. Many years on I've still struggled to find that community, the ummah. My hope is this place can help us all connect regardless of where we reside.
+
+## Policies
+
+We don't condone negativity or hate. We promote equality and respecting differences. To anyone looking to invoke fear, hatred or abuse, there is a zero tolerance policy. Please do not bring islamaphobia to the group, please do not join to mock others who you don't know. Do not assume we will allow you to shame us into silence.
