@@ -21,4 +21,4 @@ We don't condone negativity or hate. We promote equality and respecting differen
 
 ## Verification
 
-Joining the community requires a Discord account which has a verified phone number.
+Joining the community requires a Discord account which has a verified phone number. This is to police against bad actors in the system.
