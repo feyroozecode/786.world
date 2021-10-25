@@ -18,3 +18,7 @@ I grew up in Edinburgh, Scotland. The only muslim people I knew were my family a
 ## Guidelines
 
 We don't condone negativity or hate. We promote equality and respecting differences. To anyone looking to invoke fear, hatred or abuse, there is a zero tolerance policy. Please do not bring islamaphobia to the group, please do not join to mock others who you don't know. Do not assume we will allow you to shame us into silence.
+
+## Verification
+
+Joining the community requires a Discord account which has a verified phone number.
