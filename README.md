@@ -1,9 +1,10 @@
 <p align="center">
-	<a href="https://786.world/">
-		<img src="786.png" />
-		<h1 align="center">786</h1>
-	</a>
+  <a href="https://786.world/">
+    <img src="786.png" />
+  </a>
 </p>
+<hr />
+<h1 align="center">786</h1>
 <p align="center">A community for muslims.<br>Join us on <a href="https://786.world/">Discord</a>.</p>
 
 ## Overview
