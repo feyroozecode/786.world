@@ -1,9 +1,8 @@
-<p align="center">
+<p align="center" style="border-bottom: 1px solid #eaecef;">
   <a href="https://786.world/">
     <img src="786.png" />
   </a>
 </p>
-<h1>&nbsp;</h1>
 
 <h1 align="center" style="border-bottom: none;"><a href="https://786.world/">786</a></h1>
 <p align="center">A community for muslims.<br>Join us on <a href="https://786.world/">Discord</a>.</p>
