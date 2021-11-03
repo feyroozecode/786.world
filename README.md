@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center" style="border-bottom: none;"><a href="https://786.world/">786</a></h1>
-<p align="center">A community for muslims.<br>Join us on <a href="https://786.world/">Discord</a>.</p>
+<p align="center">A community for muslims.<br>Join us on <a href="https://community.786.world/">Discord</a>.</p>
 
 ## Overview
 
@@ -24,3 +24,7 @@ We don't condone negativity or hate. We promote equality and respecting differen
 
 Joining the community requires a Discord account which has a verified phone number. This is to police against bad actors in the system. While many prefer 
 anonymity, it's a byproduct of a digital world, not our reality. If you need anonymity you may have to find another place unfortunately.
+
+## Join Us
+
+Go to [Discord](https://community.786.world) to join us
