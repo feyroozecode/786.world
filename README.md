@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center" style="border-bottom: none;"><a href="https://786.world/">786</a></h1>
-<p align="center">A community for muslims.<br>Join us on <a href="https://community.786.world/">Discord</a>.</p>
+<p align="center">A community for muslims.<br>Join us on <a href="https://discord.gg/DgtG3E24EY">Discord</a>.</p>
 
 ## Overview
 
@@ -27,4 +27,4 @@ anonymity, it's a byproduct of a digital world, not our reality. If you need ano
 
 ## Join Us
 
-Go to [Discord](https://community.786.world) to join us
+Go to [Discord](https://discord.gg/DgtG3E24EY) to join us
