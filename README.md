@@ -27,4 +27,4 @@ anonymity, it's a byproduct of a digital world, not our reality. If you need ano
 
 ## Join Us
 
-Go to [Discord](https://discord.gg/DgtG3E24EY) to join us
+Go to [Discord](https://discord.gg/DgtG3E24EY) to join us now.
