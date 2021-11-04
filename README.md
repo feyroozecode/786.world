@@ -22,7 +22,7 @@ We don't condone negativity or hate. We promote equality and respecting differen
 
 ## Verification
 
-Joining the community requires a Discord account which has a verified phone number. This is to police against bad actors in the system. While many prefer 
+Joining the community requires a Discord account which has a verified email. This is to police against bad actors in the system. While many prefer 
 anonymity, it's a byproduct of a digital world, not our reality. If you need anonymity you may have to find another place unfortunately.
 
 ## Join Us
