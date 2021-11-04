@@ -22,8 +22,8 @@ We don't condone negativity or hate. We promote equality and respecting differen
 
 ## Verification
 
-Joining the community requires a Discord account which has a verified email. This is to police against bad actors in the system. While many prefer 
-anonymity, it's a byproduct of a digital world, not our reality. If you need anonymity you may have to find another place unfortunately.
+Joining the community requires a Discord account which has a verified email. This is to police against bad actors in the system. We've had a number of issues with 
+trolling and related issues. Verified accounts should ensure we can keep spam to a minimum.
 
 ## Join Us
 
