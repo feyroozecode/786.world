@@ -21,4 +21,4 @@ We don't condone negativity or hate. We promote equality and respecting differen
 
 ## Community
 
-We will soon have a place to chat.
+Join us on [Discord](https://discord.gg/dybMMCDRHN)
