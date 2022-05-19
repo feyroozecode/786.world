@@ -19,4 +19,4 @@ We don't condone negativity or hate. We promote equality and respecting differen
 
 ## Community
 
-Join us on [Discord](https://discord.gg/dybMMCDRHN)
+Join us on [Discord](https://discord.gg/dybMMCDRHN) or follow on [Twitter](https://twitter.com/786worlds).
