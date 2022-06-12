@@ -11,7 +11,7 @@ meet other like minded people and discuss their faith or exist in a place with t
 
 ## Rationale
 
-Many of us have felt a disconnect between who we are and the environment around us. Unable to express our faith or beliefs. We're still struggling to find that community. Our hope is this place can help us all connect regardless of where we live.
+Many of us have felt a disconnect between who we are and the environment around us. Unable to express our faith or beliefs. We're still struggling to find that community. Our hope is this place can help us all connect regardless of where we are.
 
 ## Guidelines
 
