@@ -30,4 +30,4 @@ Muhammad (peace be upon him). Those joining the community should first read and 
 
 Join us on [Discord](https://discord.gg/dybMMCDRHN) or follow on [Twitter](https://twitter.com/786worlds).
 
-## -
+<br>
