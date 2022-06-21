@@ -19,7 +19,7 @@ We don't condone negativity or hate. We promote equality and respecting differen
 
 ## Shahada
 
-The [shahada](https://en.wikipedia.org/wiki/Shahada) is the first pillar of Islam. It is the declaration of belief in the one, God, and his messenger 
+The [shahada](https://en.wikipedia.org/wiki/Shahada) is the first pillar of Islam. It is the declaration of belief in one, God, and his messenger 
 Muhammad (peace be upon him). Those joining the community should first read and acknowledge this.
 
 **lā ʾilāha ʾillallāh, Muḥammad rasūlu-llāh**
