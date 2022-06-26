@@ -30,4 +30,12 @@ Muhammad (peace be upon him). Those joining the community should first read and 
 
 Join us on [Discord](https://discord.gg/dybMMCDRHN) or follow on [Twitter](https://twitter.com/786worlds).
 
+## Donate
+
+Donate to causes on the behalf of 786. You can find worthy causes at [786.world/donate](https://786.world/donate).
+
+## Contribute
+
+We welcome contributions to the project, come join us in #contribute on [Discord](https://discord.gg/dybMMCDRHN) to discuss more.
+
 <br>
