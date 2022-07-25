@@ -8,7 +8,7 @@ title: 786
 [786](https://vargiskhan.com/log/the-number-786-its-origin-meaning-and-significance/) is the numerical expression for “Bismillah al-Rahman al-Rahim” meaning "In the name of God, the Most Gracious, the Most Merciful".
 
 [786 World](https://786.world/) is a community for muslims to meet other like minded people who share in the belief of the oneness of God and 
-practice the religion of Islam.
+practice Islam.
 
 ## Declaration
 
