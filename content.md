@@ -3,7 +3,9 @@ layout: default
 title: Content
 ---
 
-### Articles
+A list of articles, resources and videos we find interesting 
+
+## Articles
 
 - [Why are we here?](https://asimaslam.com/why-are-we-here)
 - [The source of truth](https://asimaslam.com/the-source-of-truth)
@@ -12,6 +14,6 @@ title: Content
 - [Leaving a Legacy](https://productivemuslim.com/leaving-a-legacy/)
 - [Three best things](https://finconnect.news/2021/09/15/three-best-things-to-leave-behind-after-death/)
 
-### Videos
+## Videos
 
 - [We are Muslim](https://www.youtube.com/watch?v=wwYK2zn26OE) - Mufti Menk
