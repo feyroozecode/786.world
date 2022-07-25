@@ -19,6 +19,9 @@
 	  margin: 6px 0;
 	  border-radius: 5px;
       }
+      .page-title {
+        text-decoration: none;
+      }
     </style>
   </head>
   <body>
@@ -47,6 +50,8 @@
       </h1>
       {% endif %}
 
+      {% if page.title and page.title != site.title %}
+      <center><h1 class="page-title">{{ page.title }}</h1></center>
       {{ content }}
 
       {% if site.github.private != true and site.github.license %}
