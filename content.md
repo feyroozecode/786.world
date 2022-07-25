@@ -10,6 +10,7 @@ title: Content
 - [The Rise of Islamic Banking](https://www.dawn.com/news/1695601)
 - [Halal cryptocurrencies to invest in](https://www.islamicfinanceguru.com/crypto)
 - [Leaving a Legacy](https://productivemuslim.com/leaving-a-legacy/)
+- [Three best things](https://finconnect.news/2021/09/15/three-best-things-to-leave-behind-after-death/)
 
 ### Videos
 
