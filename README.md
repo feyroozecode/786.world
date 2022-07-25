@@ -1,7 +1,6 @@
 ## Introduction
 
-[786](https://vargiskhan.com/log/the-number-786-its-origin-meaning-and-significance/) is the numerical expression for “Bismillah al-Rahman al-Rahim” meaning "In the name of God, the Most Gracious, the Most Merciful". [786 World](https://786.world/) is a muslim community which provides a place for people to 
-meet other like minded people and discuss their faith or exist in a place with the knowledge that everyone shares the same beliefs and values.
+[786](https://vargiskhan.com/log/the-number-786-its-origin-meaning-and-significance/) is the numerical expression for “Bismillah al-Rahman al-Rahim” meaning "In the name of God, the Most Gracious, the Most Merciful". [786 World](https://786.world/) is a muslim community to meet other like minded people.
 
 ## Rationale
 
@@ -10,7 +9,7 @@ Many of us have felt a disconnect between who we are and the environment around 
 ## Declaration
 
 The [shahada](https://en.wikipedia.org/wiki/Shahada) is the first pillar of Islam. It is the declaration of belief in one, God, and his messenger 
-Muhammad (peace be upon him). Those joining the community should first read and acknowledge this.
+Muhammad (peace be upon him).
 
 **lā ʾilāha ʾillallāh, Muḥammad rasūlu-llāh**
 
