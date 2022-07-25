@@ -14,6 +14,11 @@ A list of articles, resources and videos we find interesting
 - [Leaving a Legacy](https://productivemuslim.com/leaving-a-legacy/)
 - [Three best things](https://finconnect.news/2021/09/15/three-best-things-to-leave-behind-after-death/)
 
+## Speakers
+
+- [Mufti Menk](https://muftimenk.com/)
+- [Omar Suleiman](https://www.instagram.com/imamomarsuleiman/)
+
 ## Videos
 
 - [We are Muslim](https://www.youtube.com/watch?v=wwYK2zn26OE) - Mufti Menk
