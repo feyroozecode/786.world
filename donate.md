@@ -5,7 +5,7 @@ title: Donate
 
 ## Charities
 
-A list of charities and causes to donate to
+A list of charities and causes to donate to on behalf of the community
 
 - [Islamic Relief](https://donate.islamic-relief.org/)
 - [GiveDirectly](https://donate.givedirectly.org/)
