@@ -6,7 +6,7 @@ practice the religion of Islam.
 ## Declaration
 
 The [shahada](https://en.wikipedia.org/wiki/Shahada) is the first pillar of Islam. It is the declaration of belief in one, God, and his messenger 
-Muhammad (peace be upon him).
+Muhammad (peace be upon him). To join the community recite.
 
 **lā ʾilāha ʾillallāh, Muḥammad rasūlu-llāh**
 
