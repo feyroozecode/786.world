@@ -3,7 +3,7 @@ layout: default
 title: Donate
 ---
 
-# Donate
+### Donate
 
 A list of charities and causes to donate to
 
