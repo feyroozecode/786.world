@@ -9,6 +9,7 @@ title: Content
 - [The source of truth](https://asimaslam.com/the-source-of-truth)
 - [The Rise of Islamic Banking](https://www.dawn.com/news/1695601)
 - [Halal cryptocurrencies to invest in](https://www.islamicfinanceguru.com/crypto)
+- [Leaving a Legacy](https://productivemuslim.com/leaving-a-legacy/)
 
 ### Videos
 
