@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Donate
+permalink: /donate
 ---
 
 ## Charities

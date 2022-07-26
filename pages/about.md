@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+permalink: /about
 ---
 
 [786](https://vargiskhan.com/log/the-number-786-its-origin-meaning-and-significance/) is the numerical expression for “Bismillah al-Rahman al-Rahim” meaning "In the name of God, the Most Gracious, the Most Merciful".

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Content
+permalink: /content
 ---
 
 A list of articles, resources and videos we find interesting 
