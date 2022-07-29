@@ -11,7 +11,14 @@
        @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;800&display=swap');
        html, body { color: black; background: beige; font-family: Karla, sans-serif; }
        a { color: black; font-weight: bold; }
-      .links a { color: black; font-size: 16px; font-weight: normal; vertical-align: middle; margin-right: 10px;}
+      .links a {
+        color: black;
+	font-size: 16px;
+	font-weight: normal;
+	vertical-align: middle;
+	margin-right: 10px;
+	background: none;
+      }
       .title a:hover { text-decoration: none; }
       .menu {
 	  width: 25px;
@@ -19,6 +26,7 @@
 	  background-color: black;
 	  margin: 6px 0;
 	  border-radius: 5px;
+	  box-shadow: 0;
       }
       h1.page-title {
         text-decoration: none;
@@ -32,6 +40,8 @@
 	padding: 20px;
 	margin: 10px;
 	display: inline-block;
+	background: white;
+	box-shadow: 2px 1px;
       }
       li.link {
           border: 0;
