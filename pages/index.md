@@ -18,7 +18,7 @@ Muhammad (peace be upon him). To join the community recite the following.
 
 **lā ʾilāha ʾillallāh, Muḥammad rasūlu-llāh**
 
-*There is no god but Allah, and Muhammad is his messenger*
+*There is no God but God, and Muhammad is his messenger*
 
 ## Community
 
