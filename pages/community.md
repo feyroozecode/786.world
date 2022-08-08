@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Join
-permalink: /join
+title: Community
+permalink: /community
 ---
-
-## Community
 
 Join us on the following channels
 
