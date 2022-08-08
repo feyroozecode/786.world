@@ -25,6 +25,7 @@ A list of articles, resources and videos we find interesting
 
 - [Mufti Menk](https://muftimenk.com/)
 - [Omar Suleiman](https://www.instagram.com/imamomarsuleiman/)
+- [Imam Van Ael](https://www.imamvanael.com/)
 
 ## Terms
 
