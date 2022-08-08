@@ -26,6 +26,15 @@ A list of articles, resources and videos we find interesting
 - [Mufti Menk](https://muftimenk.com/)
 - [Omar Suleiman](https://www.instagram.com/imamomarsuleiman/)
 
+## Terms
+
+Terms and meanings that are useful
+
+- [As-Sahabah](https://en.wikipedia.org/wiki/Companions_of_the_Prophet) - The companions (of the prophet)
+- [Radiya Llahu 'anhum](https://ashhaduu.com/glossary/radiallahu-anhu-anha-anhuma-anhum/) - May Allah be pleased with him/her/them
+- [Subḥānahu wa-taʿālā](https://en.wikipedia.org/wiki/Islamic_honorifics) - Glorified and exalted (is he) - Abbreviated as SWT
+- [Ya Ayyuhallazina Amanu](https://myislam.org/ya-ayyuhallazina-amanu-ayah-in-quran/) - O you who believe
+
 ## Videos
 
 - [We are Muslim](https://www.youtube.com/watch?v=wwYK2zn26OE) - Mufti Menk
