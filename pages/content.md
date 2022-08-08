@@ -37,6 +37,8 @@ Terms and meanings that are useful
 - [Taqwa](https://en.wikipedia.org/wiki/Taqwa) - God consciousness
 - [Yawm al qiyamah](https://en.wikipedia.org/wiki/Judgement_Day_in_Islam) - Day of resurrection or day of judgement
 
+- [Barakallahu Feekum](https://myislam.org/barakallahu-feekum/) - May Allah bless you
+
 ## Videos
 
 - [We are Muslim](https://www.youtube.com/watch?v=wwYK2zn26OE) - Mufti Menk
