@@ -20,6 +20,7 @@ A list of articles, resources and videos we find interesting
 - [Quran](https://quran.com)
 - [Salah](https://salah.com)
 - [Sunnah](https://sunnah.com/)
+- [99 Names of Allah](https://99namesofallah.name/)
 
 ## Speakers
 
