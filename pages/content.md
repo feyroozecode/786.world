@@ -35,6 +35,7 @@ Terms and meanings that are useful
 - [Subḥānahu wa-taʿālā](https://en.wikipedia.org/wiki/Islamic_honorifics) - Glorified and exalted (is he) - Abbreviated as SWT
 - [Ya Ayyuhallazina Amanu](https://myislam.org/ya-ayyuhallazina-amanu-ayah-in-quran/) - O you who believe
 - [Taqwa](https://en.wikipedia.org/wiki/Taqwa) - God consciousness
+- [Yawm al qiyamah](https://en.wikipedia.org/wiki/Judgement_Day_in_Islam) - Day of resurrection or day of judgement
 
 ## Videos
 
