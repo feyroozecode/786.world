@@ -34,6 +34,7 @@ Terms and meanings that are useful
 - [Radiya Llahu 'anhum](https://ashhaduu.com/glossary/radiallahu-anhu-anha-anhuma-anhum/) - May Allah be pleased with him/her/them
 - [Subḥānahu wa-taʿālā](https://en.wikipedia.org/wiki/Islamic_honorifics) - Glorified and exalted (is he) - Abbreviated as SWT
 - [Ya Ayyuhallazina Amanu](https://myislam.org/ya-ayyuhallazina-amanu-ayah-in-quran/) - O you who believe
+- [Taqwa](https://en.wikipedia.org/wiki/Taqwa) - God consciousness
 
 ## Videos
 
