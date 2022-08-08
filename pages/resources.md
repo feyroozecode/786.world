@@ -15,11 +15,11 @@ A list of articles, resources and videos we find interesting
 - [Leaving a Legacy](https://productivemuslim.com/leaving-a-legacy/)
 - [Three best things](https://finconnect.news/2021/09/15/three-best-things-to-leave-behind-after-death/)
 
-## Resources
+## Deen
 
-- [Quran.com](https://quran.com)
-- [Salah.com](https://salah.com)
-- [Sunnah.com](https://sunnah.com/)
+- [Quran](https://quran.com)
+- [Salah](https://salah.com)
+- [Sunnah](https://sunnah.com/)
 
 ## Speakers
 
