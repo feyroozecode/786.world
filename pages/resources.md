@@ -21,6 +21,7 @@ A list of articles, resources and videos we find interesting
 - [Salah](https://salah.com)
 - [Sunnah](https://sunnah.com/)
 - [99 Names of Allah](https://99namesofallah.name/)
+- [Five Pillars of Islam](https://en.wikipedia.org/wiki/Five_Pillars_of_Islam)
 
 ## Speakers
 
