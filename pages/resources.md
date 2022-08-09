@@ -44,3 +44,4 @@ Terms and meanings that are useful
 ## Videos
 
 - [We are Muslim](https://www.youtube.com/watch?v=wwYK2zn26OE) - Mufti Menk
+- [Lessons from a Tree](https://www.youtube.com/watch?v=IN_y8Tft-Zs) - Mufti Menk
