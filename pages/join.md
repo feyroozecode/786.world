@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Community
-permalink: /community
+title: Join
+permalink: /join
 ---
 
-Join us on the following channels
+Join the community on the following channels
+
+## Social
 
 - [Discord](https://discord.gg/dybMMCDRHN)
 - [Twitter](https://twitter.com/786worlds)
