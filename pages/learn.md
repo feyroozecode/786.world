@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Resources
-permalink: /resources
+title: Learn
+permalink: /learn
 ---
 
 A list of articles, resources and videos we find interesting 
