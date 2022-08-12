@@ -6,7 +6,7 @@ permalink: /join
 
 Join the community on the following channels
 
-## Social
+## Community
 
 - [Discord](https://discord.gg/dybMMCDRHN)
 - [Twitter](https://twitter.com/786worlds)
