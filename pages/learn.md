@@ -6,7 +6,7 @@ permalink: /learn
 
 A list of articles, resources and videos we find interesting 
 
-## Articles
+## Read
 
 - [Why are we here?](https://asimaslam.com/why-are-we-here)
 - [The source of truth](https://asimaslam.com/the-source-of-truth)
@@ -15,7 +15,7 @@ A list of articles, resources and videos we find interesting
 - [Leaving a Legacy](https://productivemuslim.com/leaving-a-legacy/)
 - [Three best things](https://finconnect.news/2021/09/15/three-best-things-to-leave-behind-after-death/)
 
-## Deen
+## Practice
 
 - [Quran](https://quran.com)
 - [Salah](https://salah.com)
@@ -23,13 +23,13 @@ A list of articles, resources and videos we find interesting
 - [99 Names of Allah](https://99namesofallah.name/)
 - [Five Pillars of Islam](https://en.wikipedia.org/wiki/Five_Pillars_of_Islam)
 
-## Speakers
+## Listen
 
 - [Mufti Menk](https://muftimenk.com/)
 - [Omar Suleiman](https://www.instagram.com/imamomarsuleiman/)
 - [Imam Van Ael](https://www.imamvanael.com/)
 
-## Terms
+## Understand
 
 Terms and meanings that are useful
 
@@ -42,7 +42,7 @@ Terms and meanings that are useful
 
 - [Barakallahu Feekum](https://myislam.org/barakallahu-feekum/) - May Allah bless you
 
-## Videos
+## Watch
 
 - [We are Muslim](https://www.youtube.com/watch?v=wwYK2zn26OE) - Mufti Menk
 - [Lessons from a Tree](https://www.youtube.com/watch?v=IN_y8Tft-Zs) - Mufti Menk
