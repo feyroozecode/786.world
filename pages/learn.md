@@ -6,9 +6,9 @@ permalink: /learn
 
 A list of articles, resources and videos we find useful and interesting 
 
-## Practice
+## Islam
 
-Learn about islam through the Quran, the Sunnah of the prophet Muhammad (pbuh) and other resources
+Learn about Islam by reading the Quran, Sunnah of the prophet Muhammad (pbuh) and other resources
 
 - [Quran](https://quran.com)
 - [Salah](https://salah.com)
@@ -16,7 +16,7 @@ Learn about islam through the Quran, the Sunnah of the prophet Muhammad (pbuh) a
 - [99 Names of Allah](https://99namesofallah.name/)
 - [Five Pillars of Islam](https://en.wikipedia.org/wiki/Five_Pillars_of_Islam)
 
-## Read
+## Articles
 
 - [Why are we here?](https://asimaslam.com/why-are-we-here)
 - [The source of truth](https://asimaslam.com/the-source-of-truth)
@@ -25,7 +25,7 @@ Learn about islam through the Quran, the Sunnah of the prophet Muhammad (pbuh) a
 - [Leaving a Legacy](https://productivemuslim.com/leaving-a-legacy/)
 - [Three best things](https://finconnect.news/2021/09/15/three-best-things-to-leave-behind-after-death/)
 
-## Listen
+## Speakers
 
 Find speakers and leaders in the muslim community who can help you understand Islam
 
@@ -33,7 +33,7 @@ Find speakers and leaders in the muslim community who can help you understand Is
 - [Omar Suleiman](https://www.instagram.com/imamomarsuleiman/)
 - [Imam Van Ael](https://www.imamvanael.com/)
 
-## Understand
+## Terms
 
 Terms and meanings that are common and useful to know
 
@@ -46,7 +46,7 @@ Terms and meanings that are common and useful to know
 
 - [Barakallahu Feekum](https://myislam.org/barakallahu-feekum/) - May Allah bless you
 
-## Watch
+## Videos
 
 Motivational and insightful videos, talks and lectures
 
