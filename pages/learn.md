@@ -6,6 +6,16 @@ permalink: /learn
 
 A list of articles, resources and videos we find useful and interesting 
 
+## Practice
+
+Learn about islam through the Quran, the Sunnah of the prophet Muhammad (pbuh) and other resources
+
+- [Quran](https://quran.com)
+- [Salah](https://salah.com)
+- [Sunnah](https://sunnah.com/)
+- [99 Names of Allah](https://99namesofallah.name/)
+- [Five Pillars of Islam](https://en.wikipedia.org/wiki/Five_Pillars_of_Islam)
+
 ## Read
 
 - [Why are we here?](https://asimaslam.com/why-are-we-here)
@@ -15,15 +25,9 @@ A list of articles, resources and videos we find useful and interesting
 - [Leaving a Legacy](https://productivemuslim.com/leaving-a-legacy/)
 - [Three best things](https://finconnect.news/2021/09/15/three-best-things-to-leave-behind-after-death/)
 
-## Practice
-
-- [Quran](https://quran.com)
-- [Salah](https://salah.com)
-- [Sunnah](https://sunnah.com/)
-- [99 Names of Allah](https://99namesofallah.name/)
-- [Five Pillars of Islam](https://en.wikipedia.org/wiki/Five_Pillars_of_Islam)
-
 ## Listen
+
+Find speakers and leaders in the muslim community who can help you understand Islam
 
 - [Mufti Menk](https://muftimenk.com/)
 - [Omar Suleiman](https://www.instagram.com/imamomarsuleiman/)
@@ -31,7 +35,7 @@ A list of articles, resources and videos we find useful and interesting
 
 ## Understand
 
-Terms and meanings that are useful
+Terms and meanings that are common and useful to know
 
 - [As-Sahabah](https://en.wikipedia.org/wiki/Companions_of_the_Prophet) - The companions (of the prophet)
 - [Radiya Llahu 'anhum](https://ashhaduu.com/glossary/radiallahu-anhu-anha-anhuma-anhum/) - May Allah be pleased with him/her/them
@@ -43,6 +47,8 @@ Terms and meanings that are useful
 - [Barakallahu Feekum](https://myislam.org/barakallahu-feekum/) - May Allah bless you
 
 ## Watch
+
+Motivational and insightful videos, talks and lectures
 
 - [We are Muslim](https://www.youtube.com/watch?v=wwYK2zn26OE) - Mufti Menk
 - [Lessons from a Tree](https://www.youtube.com/watch?v=IN_y8Tft-Zs) - Mufti Menk
