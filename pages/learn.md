@@ -25,6 +25,11 @@ Learn about Islam by reading the Quran, Sunnah of the prophet Muhammad (pbuh) an
 - [Leaving a Legacy](https://productivemuslim.com/leaving-a-legacy/)
 - [Three best things](https://finconnect.news/2021/09/15/three-best-things-to-leave-behind-after-death/)
 
+## Books
+
+- [Muhammad](https://www.amazon.co.uk/Muhammad-Life-Based-Earliest-Sources/dp/0946621330)
+- [Vision of Islam](https://www.amazon.co.uk/Vision-Islam-Sachiko-Murata/dp/1845113209)
+
 ## Speakers
 
 Find speakers and leaders in the muslim community who can help you understand Islam
