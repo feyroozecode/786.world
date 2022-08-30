@@ -26,16 +26,4 @@ Muhammad (peace be upon him). To join the community recite the following.
 
 *There is no god but Allah, and Muhammad is his messenger*
 
-## Community
-
-Join us on [Discord](https://discord.gg/dybMMCDRHN) or follow on [Twitter](https://twitter.com/786worlds).
-
-## Donate
-
-Donate to causes on the behalf of 786. You can find worthy causes at [786.world/donate](https://786.world/donate).
-
-## Contribute
-
-We welcome contributions to the project, come join us in #contribute on [Discord](https://discord.gg/dybMMCDRHN) to discuss more.
-
 <br>
