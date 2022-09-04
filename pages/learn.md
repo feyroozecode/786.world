@@ -8,7 +8,7 @@ A list of articles, resources and videos we find useful and interesting
 
 ## Islam
 
-Learn about Islam by reading the Quran, Sunnah of the prophet Muhammad (pbuh) and other resources
+Learn about Islam by reading the Quran, Sunnah of the prophet Muhammad (pbuh) and more
 
 - [Quran](https://quran.com)
 - [Salah](https://salah.com)
