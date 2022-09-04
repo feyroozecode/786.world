@@ -16,3 +16,9 @@ A list of charities and causes to donate to on behalf of the community
 - [Quran.com](https://donate.quran.com/)
 - [Charity Water](https://www.charitywater.org/uk/donate)
 - [Muslim Hands](https://muslimhands.org.uk/donate)
+
+## Pakistan Appeal
+
+Donate to the pakistan floods appeal
+
+- [DEC](https://www.dec.org.uk/appeal/pakistan-floods-appeal)
