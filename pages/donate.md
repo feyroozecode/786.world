@@ -22,3 +22,4 @@ A list of charities and causes to donate to on behalf of the community
 Donate to the pakistan floods appeal
 
 - [DEC](https://www.dec.org.uk/appeal/pakistan-floods-appeal)
+- [Human Appeal](https://humanappeal.org.uk/appeals/pakistan-appeal)
