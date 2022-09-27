@@ -20,4 +20,4 @@ Muhammad (peace be upon him). To join the community recite the following.
 
 ## Community
 
-Join us on [Discord](https://discord.gg/dybMMCDRHN) for discussions or follow on [Twitter](https://twitter.com/786worlds) for updates.
+A community forum will be announced soon
