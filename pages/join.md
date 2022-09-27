@@ -8,7 +8,6 @@ Join the community on various channels
 
 ## Community
 
-- [Discord](https://discord.gg/dybMMCDRHN) - For discussions
-- [Twitter](https://twitter.com/786worlds) - For updates
+A community forum will be announced soon
 
 <br>
