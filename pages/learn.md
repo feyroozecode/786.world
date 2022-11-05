@@ -4,7 +4,7 @@ title: Learn
 permalink: /learn
 ---
 
-A list of articles, resources and videos we find useful and interesting 
+A list of articles, resources and videos to help learn about Islam
 
 ## Islam
 
