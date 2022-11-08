@@ -20,6 +20,7 @@ Learn about Islam by reading the Quran, Sunnah of the prophet Muhammad (pbuh) an
 
 - [Why are we here?](https://asimaslam.com/why-are-we-here)
 - [The source of truth](https://asimaslam.com/the-source-of-truth)
+- [The power of Zakat](https://asimaslam.com/the-power-of-zakat)
 - [The Rise of Islamic Banking](https://www.dawn.com/news/1695601)
 - [Halal cryptocurrencies to invest in](https://www.islamicfinanceguru.com/crypto)
 - [Leaving a Legacy](https://productivemuslim.com/leaving-a-legacy/)
@@ -57,3 +58,4 @@ Motivational and insightful videos, talks and lectures
 
 - [We are Muslim](https://www.youtube.com/watch?v=wwYK2zn26OE) - Mufti Menk
 - [Lessons from a Tree](https://www.youtube.com/watch?v=IN_y8Tft-Zs) - Mufti Menk
+- [Islam, Kindness and Benevolence](https://www.youtube.com/watch?v=AHtXV3XCpYc) - Mufti Menk
