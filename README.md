@@ -22,4 +22,4 @@ To join the Muslim community recite
 
 ## Community
 
-A community forum will be announced soon
+Join us at [https://786.world](https://786.world/)
