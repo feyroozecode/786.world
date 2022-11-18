@@ -1,4 +1,4 @@
-# 786 World
+# 786.World
 
 In the name of Allah
 
@@ -6,7 +6,7 @@ In the name of Allah
 
 [786](https://islamqa.org/hanafi/councilofulama/50903/significance-of-786/) is the numerical expression for “Bismillah al-Rahman al-Rahim” meaning "In the name of God, the Most Gracious, the Most Merciful".
 
-[786 World](https://786.world/) is a community for muslims to meet other like minded people who share in the belief of the oneness of God and 
+[786.World](https://786.world/) is a community for muslims to meet other like minded people who share in the belief of the oneness of God and 
 practice Islam.
 
 ## Declaration
