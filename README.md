@@ -22,4 +22,4 @@ To join the Muslim community recite
 
 ## Community
 
-Join us on our Mastodon server at [https://786.world](https://786.world/)
+Join us on Mastodon at [https://786.world](https://786.world/)
